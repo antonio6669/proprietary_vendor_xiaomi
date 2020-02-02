@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),twolip)
+ifeq ($(TARGET_DEVICE),tulip)
 
 endif
